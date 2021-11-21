@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Code-gladiator-final" Database="" Version="10000">
+  <Project Name="Program_1" Path="Program_1/Program_1.project" Active="No"/>
+  <Project Name="Program_2" Path="Program_2/Program_2.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Program_1" ConfigName="Debug"/>
+      <Project Name="Program_2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Program_1" ConfigName="Release"/>
+      <Project Name="Program_2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
